@@ -1,0 +1,8 @@
+xin chao
+
+<<<<<<< HEAD
+
+sua noi dung khac
+=======
+okeeelaaa
+>>>>>>> xungdot
